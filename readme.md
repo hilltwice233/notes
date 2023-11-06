@@ -1,3 +1,3 @@
-# Hilltwice's Notes
+# Hilltwis' Notes
 
 A shared notebook.

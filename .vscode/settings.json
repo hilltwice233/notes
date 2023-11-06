@@ -6,5 +6,10 @@
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {"source.organizeImports": true},
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.bracketSpacing": false
+  "prettier.bracketSpacing": false,
+
+  // Spell checker options.
+  "cSpell.useGitignore": true,
+  "cSpell.enableFiletypes": ["*"],
+  "cSpell.words": ["hilltwice", "hilltwis"]
 }
